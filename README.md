@@ -1,4 +1,4 @@
-# juuust-vue-icon
+# metamaker-vue-icon
 
 ## Project setup
 ```
